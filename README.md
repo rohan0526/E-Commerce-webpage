@@ -11,13 +11,13 @@ A modern e-commerce platform built with a sleek dark theme offering electronics,
 ![Home Page](./screenshots/homepage-lightmode.png)
 
 ### Products Page
-![Products Page](./screenshots/products.png)
+![Products Page](./screenshots/products page.png)
 
 ### Product Details
-![Product Details](./screenshots/product-details.png)
+![Product Details](./screenshots/buy page.png)
 
 ### Checkout Page
-![Checkout Page](./screenshots/checkout.png)
+![Checkout Page](./screenshots/checkout page.png)
 
 ## Features
 
@@ -43,11 +43,8 @@ A modern e-commerce platform built with a sleek dark theme offering electronics,
 - HTML
 - CSS
 - JavaScript
-- [Add any other technologies/frameworks used]
-
-## Getting Started
-
-[Add installation and setup instructions here]
+- React
+- TypeScript
 
 ## License
 

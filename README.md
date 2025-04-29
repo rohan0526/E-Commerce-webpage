@@ -1,64 +1,54 @@
-# E-Commerce Webpage
+# ShopHaven E-commerce Website
 
-This project is an E-Commerce webpage built using React. It allows users to browse products, add them to a cart, and proceed to checkout. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern e-commerce platform built with a sleek dark theme offering electronics, clothing, books, and home & kitchen products.
+
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/homepage.png)
+
+### Home Page (Light Mode)
+![Home Page](./screenshots/homepage-lightmode.png)
+
+### Products Page
+![Products Page](./screenshots/products.png)
+
+### Product Details
+![Product Details](./screenshots/product-details.png)
+
+### Checkout Page
+![Checkout Page](./screenshots/checkout.png)
 
 ## Features
 
-- Browse products by category
-- Add products to the shopping cart
-- View and update the shopping cart
-- Checkout functionality
-- Responsive design for mobile and desktop
+- Clean and modern user interface with dark theme
+- Product categorization
+- Featured products section
+- Summer sale promotions
+- Shopping cart functionality
+- Secure checkout process
+- Responsive design
+- Search functionality
+- User account management
 
-## Available Scripts
+## Benefits
 
-In the project directory, you can run:
+- Free Shipping on orders over $50
+- Fast Delivery within 2-3 business days
+- 30-day Easy Return policy
+- Secure Payment processing
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- HTML
+- CSS
+- JavaScript
+- [Add any other technologies/frameworks used]
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-Use this to test the functionality of the application. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and medium deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Folder Structure
-
-- `src/components`: Contains reusable React components
-- `src/pages`: Contains page-level components (e.g., Home, Product Details, Cart)
-- `src/assets`: Contains static assets like images and styles
-- `src/context`: Contains context providers for state management
-- `src/utils`: Contains utility functions
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Add installation and setup instructions here]
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+© 2025 ShopHaven. All rights reserved.

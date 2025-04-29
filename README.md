@@ -11,13 +11,13 @@ A modern e-commerce platform built with a sleek dark theme offering electronics,
 ![Home Page](./screenshots/homepage-lightmode.png)
 
 ### Products Page
-![Products Page](./screenshots/products page.png)
+![Products Page](./screenshots/productspage.png)
 
 ### Product Details
-![Product Details](./screenshots/buy page.png)
+![Product Details](./screenshots/buypage.png)
 
 ### Checkout Page
-![Checkout Page](./screenshots/checkout page.png)
+![Checkout Page](./screenshots/checkoutpage.png)
 
 ## Features
 
